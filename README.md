@@ -73,7 +73,7 @@ Create an Excel file named `participants.xlsx` with the following columns:
 
 | Student    | Course          | Date       |
 | ---------- | --------------- | ---------- |
-|   Ve| Python Basics   | 2026-05-13 |
+|   Ved| Python Basics   | 2026-05-13 |
 | Jane Smith | Web Development | 2026-05-12 |
 
 ### Step 2: Prepare Your Certificate Template
