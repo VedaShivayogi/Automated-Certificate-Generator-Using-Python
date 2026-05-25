@@ -59,7 +59,7 @@ certificate-generator/
 ├── Input/
 │   └── certificate_template1.pdf # Certificate PDF template
 ├── Certificates/                 # Output folder for generated certificates
-├── VeraBd.ttf                    # Font files (Bol
+├── VeraBd.ttf                    # Font files (Bo
 ├── Vera.ttf                      # Font files (Regular)
 ├── VeraBI.ttf                    # Font files (Bold Italic)
 └── README.md                     # This file
