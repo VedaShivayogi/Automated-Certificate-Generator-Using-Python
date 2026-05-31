@@ -62,7 +62,7 @@ certificate-generator/
 ├── VeraBd.ttf                   # Font files 
 ├── Vera.ttf                      # Font files (Regular)
 ├── VeraBI.ttf                    # Font files (Bold Italic
-└── README.md                     # This file
+└── README.md                     # This fil
 ```
 
 ## 💻 Usage
