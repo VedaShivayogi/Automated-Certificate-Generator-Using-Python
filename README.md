@@ -61,7 +61,7 @@ certificate-generator/
 ├── Certificates/                 # Output folder for generated certificates
 ├── VeraBd.ttf                   # Font files 
 ├── Vera.ttf                      # Font files (Regular)
-├── VeraBI.ttf                    # Font files (Bold Ital
+├── VeraBI.ttf                    # Font files (Bold Ita
 └── README.md                     # This fil
 ```
 
