@@ -178,6 +178,6 @@ This project is provided as-is for personal and educational use.
 
 For issues or questions, review the troubleshooting section or check the console output for error messages.
 
----
+--
 
 **Last Updated**: May 2026
