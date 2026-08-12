@@ -135,7 +135,7 @@ c.setFont("VeraBd", 50)  # Font name and size
 c.drawCentredString(422, 310, student)  # X, Y coordinates
 ```
 
-## 🐛 Troubleshooting
+##  Troubleshooting
 
 ### Error: "participants.xlsx file not found!"
 
