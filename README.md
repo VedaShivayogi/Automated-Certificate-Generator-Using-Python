@@ -2,7 +2,7 @@
 
 A Python-based automated certificate generation system that creates personalized PDF certificates for participants based on data from an Excel spreadsheet.
 
-## 📋 Table of Contents
+##  Table of Contents
 
 - [Overview](#overview)
 - [Features](#features)
