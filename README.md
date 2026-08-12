@@ -174,7 +174,7 @@ c.drawCentredString(422, 310, student)  # X, Y coordinates
 
 This project is provided as-is for personal and educational use.
 
-## 🤝 Support
+## 🤝 Support.
 
 For issues or questions, review the troubleshooting section or check the console output for error messages.
 
