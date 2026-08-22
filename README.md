@@ -176,7 +176,7 @@ This project is provided as-is for personal and educational use.
 
 ## 🤝 Support.
 
-For issues or questions, review the troubleshooting section or check the console output for error messages.
+For issues or questions, review the troubleshooting section or check the console output for error messages..
 
 
 
