@@ -1,4 +1,4 @@
-# Certificate Generator
+# Certificate Generator.
 
 A Python-based automated certificate generation system that creates personalized PDF certificates for participants based on data from an Excel spreadsheet.
 
