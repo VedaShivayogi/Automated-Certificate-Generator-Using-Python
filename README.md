@@ -50,7 +50,7 @@ This project automates the generation of professional PDF certificates by mergin
    pip install -r requirements.txt
    ```
 
-## 📁 Project Structure
+## 📁 Project Structure.
 
 ```
 certificate-generator/
