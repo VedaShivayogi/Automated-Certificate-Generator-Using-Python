@@ -2,7 +2,7 @@
 # Certificate Generator Project..
 # ============================================
 
-# Import Libraries
+# Import Libraries.
 from PyPDF2 import PdfWriter, PdfReader
 from reportlab.pdfgen import canvas
 from reportlab.lib.pagesizes import letter
