@@ -18,7 +18,7 @@ A Python-based automated certificate generation system that creates personalized
 
 This project automates the generation of professional PDF certificates by merging participant data with a customizable PDF template. It reads participant information from an Excel file and generates personalized certificates with custom fonts, colors, and positioning.
 
-## ✨ Features
+##  Features
 
 - **Batch Certificate Generation**: Process multiple participants at once
 - **Customizable Templates**: Use any PDF template as the base certificate
