@@ -28,7 +28,7 @@ This project automates the generation of professional PDF certificates by mergin
 - **Automated Output Organization**: All certificates saved to a dedicated folder
 - **Error Handling**: Comprehensive validation and error messages
 
-## 📦 Prerequisites
+## Prerequisites
 
 - Python 3.7 or higher
 - pip (Python package manager)
